@@ -2,6 +2,9 @@
 
 ### About me
   Estudante da FIAP no curso de Análise e Desenvolvimento de Sistemas.
+  - 🌱 Atualmente estudando mais sobre: API Rest, Machine Learning, React.js, SQL e CRUD.
+  - ⚡ Curiosidade engraçada: Amo produzir musica e entender sobre computadores e suas linguagens.
+  -->
   
 ### Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -11,8 +14,4 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdurraIS&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Here are some ideas to get you started:
 
-- 🌱 Atualmente estudando mais sobre: API Rest, Machine Learning, React.js, SQL e CRUD.
-- ⚡ Curiosidade engraçada: Amo produzir musica e entender sobre computadores e suas linguagens.
--->
