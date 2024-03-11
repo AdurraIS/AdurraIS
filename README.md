@@ -13,7 +13,6 @@
   
 #### Statistics about the languages I've used:<br>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdurraIS&layout=compact&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=brbertholini&show_icons=true&theme=graywhite" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brbertholini&theme=graywhite"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=AdurraIS&show_icons=true&theme=graywhite" /></p>
 
 
