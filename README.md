@@ -16,9 +16,10 @@
   ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   
-  
+  ### GitHub Stats
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdurraIS&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 #### Statistics about the languages I've used:<br>
-  [![Adurra top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdurraIS&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  [![Adurra top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdurraIS&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
