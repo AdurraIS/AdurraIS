@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ### About me
-  Eu sou o Giovanni, estudante do quarto semestre no curso de Análise e Desenvolvimento de Sistemas da FIAP, buscando conhecer cada vez mais sobre .NET, C#, Arquitetura e Design Patterns. Estou atualmente procurando oportunidade para iniciar minha carreira e poder aprender mais sobre programação e do mundo corporativo.
+  Eu sou o Giovanni, estudante do quarto semestre no curso de Análise e Desenvolvimento de Sistemas da FIAP, buscando conhecer cada vez mais sobre back-end, Arquitetura e Design Patterns. Estou atualmente procurando oportunidade para iniciar minha carreira e poder aprender mais sobre programação e do mundo corporativo.
   
-  - 🌱 Atualmente estudando mais sobre: .NET, C#, Design Patterns e Arquitetura de Software.
+  - 🌱 Atualmente estudando mais sobre: Java, React, Design Patterns e Arquitetura de Software.
   -->
   
 ### Languages
