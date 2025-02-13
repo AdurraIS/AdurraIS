@@ -22,8 +22,6 @@
 
 - 🌱 Estou atualmente estudando sobre desenvolvimento Java, Spring e trabalhando minhas softskills.
 
-- ☁️ Eu analisei um grande espaço de mercado para desenvolvedores com conhecimento em cloud, por isso estou estudando **AWS**
-
 - 📫 Sinta se livre para me contatar **giovanniultramari@gmail.com**
 
 - 🏠 Não hesite em me chamar no **[Linkedin](linkedin.com/in/giovanni-ultramari)**!
